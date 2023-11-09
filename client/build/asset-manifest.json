@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b34c30c7.css",
+    "main.js": "/static/js/main.88a16af1.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/sujit-f-resume.pdf": "/static/media/sujit-f-resume.0d06e90eedba6fb33b44.pdf",
+    "index.html": "/index.html",
+    "main.b34c30c7.css.map": "/static/css/main.b34c30c7.css.map",
+    "main.88a16af1.js.map": "/static/js/main.88a16af1.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b34c30c7.css",
+    "static/js/main.88a16af1.js"
+  ]
+}
